@@ -1,0 +1,5 @@
+[33me59000e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Fix security: Remove hardcoded API keys and use environment variables
+[33m35f3e6e[m Add online agent service and frontend integration updates
+[33md54972f[m[33m ([m[1;31morigin/main[m[33m)[m Fix new conversation loading issue and improve conversation management - Add real-time conversation list refresh functionality - Implement two-step confirmation delete button - Fix conversation loading without page refresh - Add ConversationHistory ref for external refresh control - Update AICommunicationPage to trigger refreshes automatically
+[33m0a3cb2b[m Add comprehensive setup and installation documentation - Add setup.py for automated installation - Add setup.bat for Windows users - Add INSTALLATION.md with detailed guide - Update README.md with clear installation instructions - Add model manager and test files - Improve backend with better error handling
+[33m2f5fd58[m Initial commit: AI coding assistant with frontend and backend
